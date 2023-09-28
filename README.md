@@ -11,11 +11,11 @@ Some of my personal hobbies include 3D printing, mountaineering, and trailrunnin
 * LinkedIn: [@zimmertr](https://www.linkedin.com/in/zimmertr/)
 
 <hr> 
-<center>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zimmertr&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true)" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=zimmertr&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimmertr&langs_count=20&layout=compact&theme=transparent" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimmertr&langs_count=20&layout=compact&theme=transparent" />
 </a>
-</center>
+</p>
