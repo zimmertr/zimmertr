@@ -4,7 +4,7 @@ When I first started programming around 14, I told myself I would open source al
 
 Some of my personal hobbies include 3D printing, mountaineering, and trailrunning. You can also find me at the following places:
 
-* Personal Website: [tjzimmerman.com](https://tzimmerman.com)
+* Personal Website: [tjzimmerman.com](https://tjzimmerman.com)
 * Twitter: [@zimmertr](https://twitter.com/zimmertr)
 * Strava: [@zimmertr](https://www.strava.com/athletes/zimmertr)
 * Flickr: [@zimmertr](https://www.flickr.com/photos/zimmertr/)
